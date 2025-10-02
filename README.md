@@ -17,3 +17,8 @@ This channel is part of the BuildForGood ecosystem and focuses on spreading Opti
 
 ## Links
 - [YouTube Channel](youtube.com/@StephanOptimism)
+
+
+## Preview
+
+![BuildForGood YouTube Channel](images/youtube-channel-preview.jpg)
