@@ -22,3 +22,11 @@ This channel is part of the BuildForGood ecosystem and focuses on spreading Opti
 ## Preview
 
 ![BuildForGood YouTube Channel](youtube-preview.jpg)
+
+## 🌍 BuildForGood Ecosystem  
+This project is part of the BuildForGood Ecosystem for Optimism.  
+
+📖 Books & Articles • 🕹 Games • 🖼 NFTs & Memes • 🌍 Onchain Artifacts • 🎥 Media  
+
+🔗 Explore the full ecosystem: [BuildForGood Ecosystem on Optimism Atlas](https://atlas.optimism.io/profile/organizations/BuildForGood%20Ecosystem)
+---
