@@ -1,5 +1,5 @@
 # BuildForGood YouTube OP Channel
-📌 This project is part of the BuildForGood ecosystem — a multi-project public goods initiative for Optimism.  
+📌 **This project is part of the BuildForGood ecosystem — a multi-project public goods initiative for Optimism.**  
 
 An educational YouTube channel dedicated to Optimism.  
 This channel is part of the BuildForGood ecosystem and focuses on spreading Optimism culture, RetroPGF awareness, and showcasing public goods projects in a simple and visual way.
@@ -24,7 +24,7 @@ This channel is part of the BuildForGood ecosystem and focuses on spreading Opti
 ![BuildForGood YouTube Channel](youtube-preview.jpg)
 
 ## 🌍 BuildForGood Ecosystem  
-This project is part of the BuildForGood Ecosystem for Optimism.  
+**This project is part of the BuildForGood Ecosystem for Optimism.**  
 
 📖 Books & Articles • 🕹 Games • 🖼 NFTs & Memes • 🌍 Onchain Artifacts • 🎥 Media  
 
