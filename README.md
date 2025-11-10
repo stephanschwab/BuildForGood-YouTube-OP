@@ -17,7 +17,7 @@ This channel is part of the BuildForGood ecosystem and focuses on spreading Opti
 - Showcases ecosystem projects (games, books, NFTs, cultural artifacts).  
 
 ## Links
-- [YouTube Channel](youtube.com/@StephanOptimism)
+- [YouTube Channel](https://www.youtube.com/@StephanOptimism)
 
 ## Preview
 
